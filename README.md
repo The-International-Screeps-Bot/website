@@ -8,3 +8,5 @@ First, open the "website" folder in a preferred code editor such as Visual Studi
 Next, execute the "npm install" command within the "website" directory.
 
 To facilitate the visualization of changes in real-time, the author recommends enabling auto-save within the editor by navigating to the File menu and selecting "automatically save". To run the development server, one may type "npm run dev" within the terminal.
+
+The authors extend their gratitude to Araele#5788 for generously sponsoring the theinternational.wiki domain, which serves as the project's online home.
